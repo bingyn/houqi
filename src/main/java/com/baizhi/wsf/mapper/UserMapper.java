@@ -4,4 +4,6 @@ public interface UserMapper {
     void show();
 
     void display();
+
+    void list();
 }
